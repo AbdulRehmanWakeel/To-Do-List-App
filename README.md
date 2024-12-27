@@ -1,2 +1,2 @@
 # To-Do-List-App
-Using django,Html,Css make a todo_list app project.
+Using python, django, html make a todo_list app project.
